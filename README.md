@@ -8,15 +8,15 @@ A feature rich fading carousel plugin for jQuery - Built Feb 2013
 
 ```javascript
 $('#slider').darthFader({
-		slideWrap : '#slide_wrap',
-		controls : '#slider-controls',
-		pagination : true,
-		thumbPopUp : true,
-		speed :  400,
-		nextButton : '#next',
-		prevButton : '#prev',
-		auto: true
-	});
+	slideWrap : '#slide_wrap',
+	controls : '#slider-controls',
+	pagination : true,
+	thumbPopUp : true,
+	speed :  400,
+	nextButton : '#next',
+	prevButton : '#prev',
+	auto: true
+});
 ```
 
 **Features**
