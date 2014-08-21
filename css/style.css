@@ -1,7 +1,7 @@
 /* Project CSS file */
 body{background:transparent url(../images/bg.png) repeat 0 0;}
 
-/*plugin CSS*/
+/* Plugin CSS */
 #slide_wrap{position:relative; width:600px; height:600px; margin:60px auto 0;}
 
 #slider-controls{display:none; position:absolute; top:45%; width:100%;}
@@ -19,6 +19,3 @@ body{background:transparent url(../images/bg.png) repeat 0 0;}
 li.lf_pagination_item.lf_active{background-position:right 0;}
 
 .lf_pagination_img{width:50px; position:absolute; display:none; border-radius:50px; box-shadow: 0 0 6px -1px black;}
-
-
-/*plugin CSS*/
