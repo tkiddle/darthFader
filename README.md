@@ -1,4 +1,8 @@
-darthFader
-==========
+Darth Fader - Fading carousel
+=============================
 
-darthFader - Fading carousel with pagination and options
+Built: Feb 2013
+
+**Features**
+------------
+Fading carousel with pagination and options
