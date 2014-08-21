@@ -3,7 +3,7 @@ Darth Fader
 
 A feature rich fading carousel plugin for jQuery - Built Feb 2013
 
-**User Guide**
+**Usage**
 ------------
 
 ```javascript
