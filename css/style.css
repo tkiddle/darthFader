@@ -1,0 +1,24 @@
+/* Project CSS file */
+body{background:transparent url(../images/bg.png) repeat 0 0;}
+
+/*plugin CSS*/
+#slide_wrap{position:relative; width:600px; height:600px; margin:60px auto 0;}
+
+#slider-controls{display:none; position:absolute; top:45%; width:100%;}
+#slider-controls button{height:42px; width:21px; border:none; overflow:hidden; text-indent:-999px; background:transparent url(../images/controls.png) no-repeat 0 0; cursor:pointer;}
+
+#slider-controls #next{float:right; background-position:-140px 0; margin-right:25px;}
+#slider-controls #prev{margin-left:25px;}
+
+#slider {width:600px; height:600px; overflow:hidden; position:relative; background:transparent url(../images/shadow-600.png) no-repeat 0 bottom; padding-bottom:38px;}
+#slider img{float:left;position:absolute;}
+
+
+#lf_pagination{position:absolute; bottom:24px; left:38%;}
+.lf_pagination_item{background:transparent url(../images/pagination.png) no-repeat left 0; margin:5px; height:10px; width:10px; display:block; float:left; overflow:hidden; text-indent:-999px; cursor:pointer;}
+li.lf_pagination_item.lf_active{background-position:right 0;}
+
+.lf_pagination_img{width:50px; position:absolute; display:none; border-radius:50px; box-shadow: 0 0 6px -1px black;}
+
+
+/*plugin CSS*/
