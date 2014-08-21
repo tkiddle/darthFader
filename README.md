@@ -1,7 +1,7 @@
-Darth Fader - Fading carousel
-=============================
+Darth Fader
+===========
 
-Built: Feb 2013
+A feature rich fading carousel plugin for jQuery - Built Feb 2013
 
 **User Guide**
 ------------
